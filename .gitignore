@@ -1,0 +1,29 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build
+lib/
+*.tgz
+
+# Android
+android/build/
+android/.gradle/
+android/.cxx/
+*.iml
+.gradle
+local.properties
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+RNBoostAIExample/ios/Podfile.lock
